@@ -1,0 +1,41 @@
+body{
+  background:red;
+  border: 3px solid gold;
+  margin: 0;
+  padding: 12px;
+}
+
+  h1{
+      background:black;
+      color: orange;
+  }
+
+  p {
+    font-size: 22px;
+      background: red;
+      color: black;
+  }
+  div{
+      color:white;
+      font-weight: bold;
+      font-size: 30px;
+  }
+  img{
+      width:665px;
+      height:500px;
+      border: 3px solid purple;
+  }
+.show {
+  text-align: center;
+}
+
+.show h3 {
+  text-align: left;
+}
+
+button{
+  padding: 20px;
+  font-size: 20px;
+  background: purple;
+  color: green;
+}
